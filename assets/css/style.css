@@ -51,3 +51,14 @@ body {
 a {
     color: purple;
 }
+
+ul {
+    list-style-type: none;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image2b.jpg) no-repeat center center;
+    background-size: cover;
+}
