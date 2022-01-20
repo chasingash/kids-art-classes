@@ -33,11 +33,15 @@ body {
     color: var(--primary-color);
 }
 
-nav {
+.navbar nav {
     display: none;
 }
 
-.container {
+.navbar .container {
     display: flex;
     place-content: space-between;
+}
+
+.navbar .mobile-menu {
+    cursor: pointer;
 }
