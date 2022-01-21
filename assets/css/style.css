@@ -48,16 +48,13 @@ body {
     cursor: pointer;
 }
 
-a {
-    color: purple;
-}
-
 ul {
     list-style-type: none;
 }
 
 #cover-text, #cover-text h1 {
     color: white;
+    font-size: 1.5em;
 }
 
 .hero-outer {
@@ -76,14 +73,14 @@ ul {
 }
 
 #cover-text {
-    font-size: 170%;
+    font-size: 190%;
     font-family: Poppins, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
 
     width: 250px;
-    height: 270px;
+    height: 290px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -97,14 +94,9 @@ ul {
     position: absolute;
 }
 
-.hero-cta {
+.primary-cta {
+    background: var(--primary-color);
+    color: white;
+    
+}
 
-    padding-top: 40px;
-    padding-left: 10px;
-    padding-right: 10px;
-
-* {
-    background: #000;
-    color: #0f0;
-    outline: 1px solid #f00;
-    }
