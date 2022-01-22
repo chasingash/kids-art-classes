@@ -225,7 +225,7 @@ nav li a {
     color: whitesmoke;
     text-decoration: none;
     display: block;
-    padding: 1em;
+    padding: .75em 1em;
     font-size: 1.3em;
     text-align: right;
 }
