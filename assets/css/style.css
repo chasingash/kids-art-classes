@@ -71,11 +71,12 @@ ul {
 }
 
 section {
-    padding: 9em 0;
+    /*padding: 9em 0;*/
 }
 
 .hero-outer {
     text-align: center;
+    padding: 9em 0;
 }
 
 .cover-text .sub-head {
@@ -104,6 +105,10 @@ section {
     margin-top: 4em;
 }
 
+.about-section {
+    padding: 6em 0;
+}
+
 .about-section h1 {
     margin: 0;
     font-weight: bold;
@@ -124,6 +129,7 @@ section {
 .class-info {
     background: var(--primary-color);
     color: white;
+    padding: 9em 0;
 }
 
 .class-info li img {
@@ -148,7 +154,8 @@ h2 {
 }
 
 .contact-left {
-    margin: 1em 2em;
+    margin: 0 2em;
+    padding: 9em 0;
 }
 
 label {
