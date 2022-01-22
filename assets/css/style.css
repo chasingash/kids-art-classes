@@ -30,6 +30,7 @@ body {
     text-transform: uppercase;
     color: black;
     font-size: 1em;
+    margin-top: .5em;
 }
 
 .navbar .logo span {
@@ -215,7 +216,7 @@ nav li a {
     color: whitesmoke;
     text-decoration: none;
     display: block;
-    padding: .5em;
+    padding: 1em;
     font-size: 1.3em;
     text-align: center;
 }
@@ -259,12 +260,23 @@ nav li a:hover {
     .navbar nav a {
         color: black;
         font-size: 1.2em;
-        padding: .4em 1em .1em 2em;
     }
 
     ul.primary-nav {
         margin: 0;
     }
 
+    .navbar nav li.go-premium-cta a {
+        color: var(--primary-color);
+        border: 4px solid var(--primary-color);
+        font-weight: bold;
+        border-radius: .5em;
+        margin-top: 0.2em;
+        padding: 0.5em;
+    }
 
+    .navbar nav li.go-premium-cta a:hover {
+        background: var(--primary-color);
+        color: whitesmoke;
+    }
 }
