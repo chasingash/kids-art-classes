@@ -147,6 +147,9 @@ h2 {
     font-size: 2em;
 }
 
+.contact-left {
+    margin: 1em 2em;
+}
 label {
     display: block;
     font-size: 1.2em;
@@ -158,4 +161,24 @@ input, textarea {
     padding: .8em;
     margin-bottom: 1em;
     border-radius: .5em;
+    border: 3px solid var(--primary-color);
+    box-sizing: border;
 }
+
+input[type=submit] {
+    background-color: var(--primary-color);
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 1.4em;
+    border: none;
+    margin-bottom: 3em;
+    display: inline-block;
+    padding: 0.8em 2em;
+    width: unset;
+    cursor: pointer;
+  }
+
+  iframe {
+    width: 100%;
+    height: 300px;
+  }
