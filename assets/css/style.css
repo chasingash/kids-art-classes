@@ -151,7 +151,14 @@ section {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
+}
+
+.days {
+    letter-spacing: .5em;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    margin: 1em 0;
 }
 
 .contact-left {
