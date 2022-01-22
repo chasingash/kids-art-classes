@@ -60,6 +60,7 @@ a {
 
 ul {
     list-style-type: none;
+    margin-top: 2em;
 }
 
 /* Hero Section */
@@ -236,7 +237,7 @@ nav li a:hover {
 /* remove float: left if i dont figure out how to float right without it causing issues */
 .mobile-menu-exit {
     margin: .5em;
-    float: left;
+    float: right;
 }
 
 @media only screen and (min-width: 768px) {
@@ -303,6 +304,7 @@ nav li a:hover {
     .class-info ul {
         display: flex !important;
     }
+
     .class-info ul il {
         margin: 0 1em;
     }
