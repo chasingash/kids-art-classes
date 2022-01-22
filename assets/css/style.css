@@ -71,7 +71,7 @@ ul {
 }
 
 section {
-    /*padding: 9em 0;*/
+    /* padding: 9em 0; - remove this if as no longer needed as it targets all sections at once */
 }
 
 .hero-outer {
@@ -224,7 +224,14 @@ nav li a:hover {
     font-weight: bold;
 }
 
+/* remove float: left if i dont figure out how to float right without it causing issues */
 .mobile-menu-exit {
     margin: .5em;
-    
+    float: left;
 }
+
+@media only screen and (min-width: 768px) {
+    .mobile-menu,
+  .mobile-menu-exit {
+      display: none;
+    }
