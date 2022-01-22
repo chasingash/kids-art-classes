@@ -280,7 +280,7 @@ nav li a:hover {
         border: 4px solid var(--primary-color);
         font-weight: bold;
         border-radius: .5em;
-        margin-top: 0.2em;
+        margin-top: -1.5em;
         padding: 0.5em;
     }
 
@@ -335,16 +335,17 @@ nav li a:hover {
     }
 }
 
-/* fotter */ 
+/* fotter */
 
 footer {
     height: 1em;
 }
+
 .social-links {
     text-align: center;
 }
 
-.social-links > li {
+.social-links>li {
     display: inline;
 }
 
