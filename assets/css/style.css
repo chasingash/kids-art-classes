@@ -37,7 +37,7 @@ body {
 }
 
 .navbar nav {
-    /*display: none;*/
+    display: none;
 }
 
 .navbar .container {
