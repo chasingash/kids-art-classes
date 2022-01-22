@@ -37,7 +37,7 @@ body {
 }
 
 .navbar nav {
-    display: none;
+    /*display: none;*/
 }
 
 .navbar .container {
@@ -150,6 +150,7 @@ h2 {
 .contact-left {
     margin: 1em 2em;
 }
+
 label {
     display: block;
     font-size: 1.2em;
@@ -158,7 +159,7 @@ label {
 
 input, textarea {
     width: 100%;
-    padding: .8em;
+    padding: .3em;
     margin-bottom: 1em;
     border-radius: .5em;
     border: 3px solid var(--primary-color);
@@ -176,9 +177,40 @@ input[type=submit] {
     padding: 0.8em 2em;
     width: unset;
     cursor: pointer;
-  }
+}
 
-  iframe {
-    width: 100%;
-    height: 300px;
-  }
+iframe {
+  width: 100%;
+  height: 300px;
+}
+
+nav.menu-btn {
+    display: block;
+}
+
+nav {
+    position: fixed;
+    z-index: 999;
+    width: 66%;
+    right: 0;
+    top: 0;
+    background:rgb(206, 38, 206);
+    height: 100vh;
+    padding: 1em;
+}
+nav ul.primary-nav {
+    margin-top: 1em;
+}
+
+nav li a {
+    color: whitesmoke;
+    text-decoration: none;
+    display: block;
+    padding: .5em;
+    font-size: 1.3em;
+    text-align: right;
+}
+
+nav li a:hover {
+    font-weight: bold;
+}
