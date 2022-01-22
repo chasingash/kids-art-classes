@@ -208,7 +208,7 @@ nav {
 }
 
 nav ul.primary-nav {
-    margin-top: 1em;
+    /* margin-top: 1em; */
 }
 
 nav li a {
@@ -231,7 +231,38 @@ nav li a:hover {
 }
 
 @media only screen and (min-width: 768px) {
-    .mobile-menu,
-  .mobile-menu-exit {
+    .mobile-menu, .mobile-menu-exit {
       display: none;
     }
+    .navbar .container {
+        display: grid;
+        grid-template-columns: 180px auto;
+    }
+
+    .navbar nav {
+        display: flex;
+        justify-content: space-between;
+        background: none;
+        position: unset;
+        height: auto;
+        width: 100%;
+        padding: 0;
+    }
+
+    .navbar nav ul {
+        display: flex;
+    }
+
+    .navbar nav a {
+        color: black;
+        font-size: 1em;
+        padding: .1em 1em;
+    }
+
+    ul.primary-nav {
+        margin: 0;
+    }
+
+
+}
+
