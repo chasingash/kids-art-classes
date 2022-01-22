@@ -130,7 +130,7 @@ section {
 .class-info {
     background: var(--primary-color);
     color: white;
-    padding: 9em 0;
+    padding: 0;
 }
 
 .class-info li img {
@@ -145,7 +145,7 @@ section {
     background: rgba(145, 26, 145, 0.4);
     text-align: center;
     padding: 2em 1em;
-    width: 80%;
+    width: 50%;
     margin: 0 auto 5em auto;
     border-radius: 1em;
 }
@@ -218,7 +218,7 @@ nav li a {
     display: block;
     padding: 1em;
     font-size: 1.3em;
-    text-align: center;
+    text-align: right;
 }
 
 nav li a:hover {
@@ -278,5 +278,28 @@ nav li a:hover {
     .navbar nav li.go-premium-cta a:hover {
         background: var(--primary-color);
         color: whitesmoke;
+    }
+}
+
+@media only screen and (min-width: 1080px) {
+    .container {
+        width: 1080px;
+        margin: 0 auto;
+    }
+
+    .hero-outer {
+        text-align: center;
+        padding: 12em 0 2em 0;
+    }
+
+    .class-info ul {
+        display: flex !important;
+    }
+    .class-info ul il {
+        margin: 0 1em;
+    }
+
+    .class-info li {
+        margin: 0 2em 5em 2em;
     }
 }
