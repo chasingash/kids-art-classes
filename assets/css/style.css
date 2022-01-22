@@ -334,3 +334,23 @@ nav li a:hover {
 
     }
 }
+
+/* fotter */ 
+
+footer {
+    height: 1em;
+}
+.social-links {
+    text-align: center;
+}
+
+.social-links > li {
+    display: inline;
+}
+
+.social-links i {
+    font-size: 1.5em;
+    margin: .5em;
+    padding: .2em;
+    color: var(--primary-color);
+}
