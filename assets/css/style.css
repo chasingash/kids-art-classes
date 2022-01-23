@@ -19,9 +19,6 @@ body {
 
 /* Header and logo */
 
-header {
-    position: fixed;
-}
 
 .navbar {
     background: white;
