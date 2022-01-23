@@ -181,7 +181,7 @@ textarea {
     margin-bottom: 1em;
     border-radius: .5em;
     border: 3px solid var(--primary-color);
-    box-sizing: border;
+    box-sizing: border-box;
 }
 
 
