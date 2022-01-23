@@ -139,14 +139,22 @@
         <div class="container">
             <div class="contact-left">
                 <h2>Contact</h2>
-                <form action="">
-                    <label for="name">Name</label>
-                    <input type="text" id="name" name="name" placeholder="Your Name">
-                    <label for="email">Email</label>
-                    <input type="email" id="email" name="email">
-                    <label for="message">Message</label>
-                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
-                    <input type="submit" class="send-message-cta" value="Send message">
+                <form action="https://formdump.codeinstitute.net/" method="POST" class="contact-form">
+                    <label for="fname">First Name</label>
+                    <input id="fname" name="first_name" type="text" class="text-input" required>
+                    <label for="lname">Last Name</label>
+                    <input id="lname" name="last_name" type="text" class="text-input" required>
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email_address" class="text-input" required>
+
+                    <label for="age" class="block-label">Your childs age range</label>
+                    <select id="age" name="age" required>
+                        <option value="20s">Age 5-8 year olds</option>
+                        <option value="30s">Age 8-10 year olds</option>
+                        <option value="40s">Age 9-12 year olds</option>
+                        <option value="50s">Age 13+</option>
+                    </select>
+                    <input type="submit" class="block-label" value="Get in touch">
                 </form>
             </div>
 

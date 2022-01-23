@@ -184,6 +184,8 @@ textarea {
     box-sizing: border;
 }
 
+/* Copy and paste this section into style.css file */
+
 #age {
     height: 3.5em;
     width: 8em;
@@ -206,6 +208,9 @@ input[type=submit] {
     width: unset;
     cursor: pointer;
 }
+
+/* Copy and paste this section into style.css file */
+
 
 iframe {
     width: 100%;
