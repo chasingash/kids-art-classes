@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,200;0,300;0,700;0,800;1,200;1,300;1,700;1,800&family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
 
 :root {
-    --primary-color: rgb(206, 38, 206);
+    --primary-color: #6883BC;
 }
 
 * {
@@ -12,7 +12,7 @@
 }
 
 body {
-    font-family: 'Playfair display', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 300;
     background: #f2f2f2;
 }
@@ -75,7 +75,7 @@ ul {
 }
 
 section {
-    /* padding: 9em 0; - remove this if as no longer needed as it targets all sections at once */
+    /* padding: 9em 0; - remove this as no longer needed as it targets all sections at once */
 }
 
 .hero-outer {
@@ -86,7 +86,7 @@ section {
 .cover-text .sub-head {
     font-weight: bold;
     font-size: 1.6em;
-    font-family: Poppins, sans-serif;
+    font-family: Playfair Display, sans-serif;
     text-transform: uppercase;
     letter-spacing: .2em;
 }
@@ -145,7 +145,7 @@ section {
 }
 
 .class-info li {
-    background: rgba(145, 26, 145, 0.4);
+    background: rgba(138, 48, 127, 0.9);
     text-align: center;
     padding: 2em 1em;
     width: 50%;
