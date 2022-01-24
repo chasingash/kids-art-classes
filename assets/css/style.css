@@ -324,6 +324,10 @@ nav li a:hover {
         color: whitesmoke;
     }
 
+    .cover-text {
+        padding: 9em;
+    }
+
     .contact-left {
         padding: 9em 5em;
     }
