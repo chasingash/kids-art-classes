@@ -118,7 +118,27 @@ section {
 
 
 .about-section {
-    padding: 6em 0;
+    /*padding: 6em 0;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /*background: #333;*/
+    background: rgba(196, 56, 184, 0.1);
+    color: white;
+    margin-bottom: -2em;
+    position: relative;
+    overflow: hidden;
+    min-height: 75vh;
+}
+
+.video-bg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 .about-section h1 {
