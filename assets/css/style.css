@@ -219,6 +219,12 @@ input[type=submit] {
     cursor: pointer;
 }
 
+input[type=submit]:hover {
+    background: white;
+    color: var(--primary-color);
+    border: 4px solid var(--primary-color);
+}
+
 iframe {
     width: 100%;
     height: 300px;
