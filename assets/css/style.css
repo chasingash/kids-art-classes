@@ -124,12 +124,11 @@ section {
     align-items: center;
     text-align: center;
     /*background: #333;*/
-    background: rgba(196, 56, 184, 0.1);
     color: white;
     margin-bottom: -2em;
     position: relative;
     overflow: hidden;
-    min-height: 75vh;
+    min-height: 50vh;
 }
 
 .video-bg {
