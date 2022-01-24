@@ -63,6 +63,7 @@ a {
 ul {
     list-style-type: none;
     margin-top: 2em;
+    padding: .4em 0;
 }
 
 /* Hero Section */
