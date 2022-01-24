@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,200;0,300;0,700;0,800;1,200;1,300;1,700;1,800&family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
 
 :root {
-    --primary-color: rgb(206, 38, 206);
+    --primary-color:rgb(206, 38, 206);
 }
 
 * {
@@ -159,7 +159,7 @@ section {
     width: 50%;
     margin: 0 auto 5em auto;
     border-radius: .5em 4em;
-
+    
 }
 
 h2 {
