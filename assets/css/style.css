@@ -141,8 +141,7 @@ section {
 .about-section h1 {
     margin: 0;
     font-weight: bold;
-    font-size: 2em;
-    font-family: Poppins, sans-serif;
+    font-size: 3rem;
     text-transform: uppercase;
     letter-spacing: .2em;
     text-align: center;
@@ -152,7 +151,7 @@ section {
     margin-top: 1em;
     padding: 2.3em;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.4rem;
 }
 
 .class-info {
@@ -173,8 +172,8 @@ section {
     border: 6px solid rgb(248, 174, 231);
     text-align: center;
     padding: 2em 1em;
-    width: 50%;
-    margin: 0 auto 5em auto;
+    width: 75%;
+    margin: 0 auto 2.5em auto;
     border-radius: .5em 4em;
 
 }
@@ -187,8 +186,12 @@ h2 {
     letter-spacing: .5em;
     text-transform: uppercase;
     font-size: 1.2em;
-    margin: 1em 0;
+    margin: .5em;
     font-family: Poppins, sans-serif;
+}
+
+.times {
+    margin-bottom: 1em;
 }
 
 .contact-section {
