@@ -193,9 +193,14 @@ h2 {
     font-family: Poppins, sans-serif;
 }
 
+.contact-section {
+    position: relative;
+    background: url(../images/contact.jpg) no-repeat center center;
+    background-size: cover;
+}
+
 .contact-left {
-    margin: 0 2em;
-    padding: 9em 0;
+    padding: 6em 2em;
     text-align: center;
 }
 
@@ -377,6 +382,8 @@ nav li a:hover {
 
     .contact-section {
         position: relative;
+        background: url(../images/contact.jpg) no-repeat center center;
+        background-size: cover;
     }
 
     .contact-section .container {
@@ -384,8 +391,8 @@ nav li a:hover {
     }
     
     .contact-left {
-        padding: 9em 6em;
-        margin: 0 5em;
+        padding: 3em;
+        margin: .2em;
     }
 
     .contact-right {
