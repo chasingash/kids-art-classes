@@ -58,8 +58,6 @@ a {
 }
 
 
-/* to remove all bullet points of unorder lists -  move to another location*/
-
 ul {
     list-style-type: none;
     margin-top: 2em;
@@ -128,7 +126,7 @@ section {
     margin-bottom: -2em;
     position: relative;
     overflow: hidden;
-    min-height: 40vh;
+    min-height: 100vh;
 }
 
 .video-bg {
@@ -355,7 +353,7 @@ nav li a:hover {
 
     .contact-left {
         margin: .5em;
-        padding: 9em;
+        padding: 3em;
     }
 }
 
@@ -420,6 +418,7 @@ footer {
 .social-links {
     text-align: center;
     background: var(--primary-color);
+    margin-top: .01em;
 }
 
 .social-links>li {
