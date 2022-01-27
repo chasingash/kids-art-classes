@@ -354,6 +354,14 @@ nav li a:hover {
         padding: 9em;
     }
 
+    .class-info li {
+        margin: 0 5em 1em 5em;
+    }
+
+    .class-info ul {
+
+    }
+
     .contact-left {
         margin: .5em;
         padding: 3em;
@@ -380,7 +388,7 @@ nav li a:hover {
     }
 
     .class-info li {
-        margin: .5em 2em 5em 2em;
+        margin: .7em;
     }
 
     .contact-section {
