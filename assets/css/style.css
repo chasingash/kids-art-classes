@@ -116,17 +116,15 @@ section {
 
 
 .about-section {
-    /*padding: 6em 0;*/
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    /*background: #333;*/
     color: white;
     margin-bottom: -2em;
     position: relative;
     overflow: hidden;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 .video-bg {
@@ -145,6 +143,15 @@ section {
     text-transform: uppercase;
     letter-spacing: .2em;
     text-align: center;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
 }
 
 .about-section p {
