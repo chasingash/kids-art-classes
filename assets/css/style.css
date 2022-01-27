@@ -302,6 +302,7 @@ nav li a:hover {
 
     .navbar {
         position: fixed;
+        z-index: 999;
         right: 0px;
         left: 0px;
     }
@@ -353,7 +354,8 @@ nav li a:hover {
     }
 
     .contact-left {
-        padding: 9em 5em;
+        margin: .5em;
+        padding: 9em;
     }
 }
 
