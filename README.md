@@ -40,3 +40,19 @@ I went for a playful and vibrant colour scheme inspired by this year's Pantone c
 As noted on their site “From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative.”
 
 Insert screenshot of colour scheme here :)
+
+## Imagery
+All imagery was sourced from the website, pexel.com - link site :)
+
+# Features
+The ARTSPACE website is set up for easy navigation. It contains a navigation bar, a highlighted contact button when hovered over it flips colour and a call to action button centered in the middle, clearly stating “Find a class” which the user is there to do. The overall feel of the site is intended to be inviting while encouraging the user to explore more. I designed this site with mobile first in mind.
+
+## Existing Features
+ 
+### Navigation bar
+Located at the top of the website, it allows its users to intuitively navigate the site. It is fully responsive and contains all links to all sections of the site. It is in a fixed position so that it stays visible, whether you scroll down through the page or use the convenient links nested inside the bar. In mobile view, there is a hamburger icon which also has a fixed position and working links.
+ 
+The LOGO is clickable and linked back to the homepage.
+Insect screenshot here :) desktop and mobile versions plus downtown menu
+
+
