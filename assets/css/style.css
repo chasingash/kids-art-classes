@@ -90,7 +90,7 @@ section {
     letter-spacing: .2em;
 }
 
-.cover-text h1 {
+.cover-text h2 {
     font-size: 5em;
     line-height: 1.2em;
     margin-top: .2em 4em;
@@ -139,7 +139,7 @@ section {
     min-height: 100%;
 }
 
-.about-section h1 {
+.about-section h2 {
     margin: 0;
     font-weight: bold;
     font-size: 3rem;
@@ -188,7 +188,7 @@ section {
 
 }
 
-h2 {
+.class-info li h2 {
     font-size: 1.5em;
 }
 
