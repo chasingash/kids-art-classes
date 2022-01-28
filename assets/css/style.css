@@ -101,7 +101,9 @@ section {
     text-decoration: none;
     color: white;
     padding: .6em 1.3em;
-    font-size: 1.4em;
+    font-size: 1.6em;
+    font-weight: bold;
+    letter-spacing: .1rem;
     border-radius: .5em;
     font-family: Poppins, sans-serif;
     display: inline-block;
