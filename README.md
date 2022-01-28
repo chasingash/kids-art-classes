@@ -68,3 +68,7 @@ Beneath the Main text is a simple yet effective call-to-action button that direc
  
 Insert screenshot of Full screen - nav and hero section :)
 
+### About section
+The About section gives a clear and concise description of what Artspace is about and its offerings.
+Insert screenshot here :)
+
