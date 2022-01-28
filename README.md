@@ -72,3 +72,6 @@ Insert screenshot of Full screen - nav and hero section :)
 The About section gives a clear and concise description of what Artspace is about and its offerings.
 Insert screenshot here :)
 
+### Classes section
+The Classes section aims to provide the user with the age category, a class description and the day and times for each art class.
+Insert screenshot here :)
