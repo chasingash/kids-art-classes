@@ -11,3 +11,6 @@ http://ami.responsivedesign.is/# }
 {move the following text to UX section}
  
 This site's target audience is parents of children who want to learn how to draw.
+# Objective
+For my first project, I will provide a professionally developed responsive website for users to find out about art classes for their children. The main objective is to demonstrate competency in HTML and CSS. It is my intention to create a static front end application demonstrating a clear purpose which is easy to navigate across all devices.
+Back to top -  my github link here :)
