@@ -14,3 +14,11 @@ This site's target audience is parents of children who want to learn how to draw
 # Objective
 For my first project, I will provide a professionally developed responsive website for users to find out about art classes for their children. The main objective is to demonstrate competency in HTML and CSS. It is my intention to create a static front end application demonstrating a clear purpose which is easy to navigate across all devices.
 Back to top -  my github link here :)
+
+# User Experience (UX)
+## Design Prototype
+I designed a prototype for ARTSPACE on paper first and then moved into Balsamiq _link to official site here) where I created numerous wireframes to fit mobile, tablet and desktop devices which provided me with a clear visual outline of how I wanted my site to appear. Some changes were made along the development stage as I experimented with different layouts to suit the needs of the site and also from further research into UX design.
+ 
+Insert wireframes here :)
+ 
+Back to top
