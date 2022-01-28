@@ -85,7 +85,7 @@ section {
 .cover-text .sub-head {
     font-weight: bold;
     font-size: 1.6em;
-    font-family: Playfair Display, sans-serif;
+    font-family: 'Playfair Display', sans-serif;
     text-transform: uppercase;
     letter-spacing: .2em;
 }
@@ -196,7 +196,7 @@ section {
     text-transform: uppercase;
     font-size: 1.2em;
     margin: .5em;
-    font-family: Playfair Display, serif;
+    font-family: 'Playfair Display,' serif;
 }
 
 .times {
