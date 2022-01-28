@@ -193,7 +193,7 @@ h2 {
 }
 
 .days {
-    letter-spacing: .5em;
+    letter-spacing: .2em;
     text-transform: uppercase;
     font-size: 1.2em;
     margin: .5em;
@@ -362,14 +362,6 @@ nav li a:hover {
 
     .cover-text {
         padding: 9em;
-    }
-
-    .class-info li {
-        margin: 0 5em 1em 5em;
-    }
-
-    .class-info ul {
-
     }
 
     .contact-left {
