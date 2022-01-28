@@ -55,4 +55,16 @@ Located at the top of the website, it allows its users to intuitively navigate t
 The LOGO is clickable and linked back to the homepage.
 Insect screenshot here :) desktop and mobile versions plus downtown menu
 
+### Homepage section
+ 
+The homepage has a background image which fits the screen. The image is colourful and playful and gives a good clear direction of what the website is about. This is where the user lands on their initial visit. It is designed to be intuitive and user friendly.
+ 
+ 
+Overlaid on top of the image is where the main header text appears. It states clearly in large text what the site is about.
+ 
+Above the main header text, is more text in slightly smaller text and in uppercase with a catchy slogan to further draw in the user.
+ 
+Beneath the Main text is a simple yet effective call-to-action button that directs the user to “Find a class”
+ 
+Insert screenshot of Full screen - nav and hero section :)
 
