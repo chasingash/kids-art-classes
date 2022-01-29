@@ -98,8 +98,9 @@ section {
 }
 
 .cover-text h2 {
-    font-size: 5em;
+    font-size: 4em;
     line-height: 1.2em;
+    margin-top: .5em;
 }
 
 .primary-cta {
@@ -309,7 +310,6 @@ nav li a:hover {
     font-weight: bold;
 }
 
-/* remove float: left if i dont figure out how to float right without it causing issues */
 .mobile-menu-exit {
     margin: .5em;
     float: right;
