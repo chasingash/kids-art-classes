@@ -1,12 +1,13 @@
-# ARTSPACE - Project Portfolio 1 - HtML & CSS
+# ARTSPACE - Project Portfolio 1 - HTML & CSS
+
 ARTSPACE is a landing page which aims to provide information to Parents of children wanting to pursue art and crafts classes at a dedicated location. Artspace offers just that, a space to create Art in a friendly environment to children of all ages.
 Artspace provides information to its users who want to find out about the different art classes, age categories and contact information.
  
-Link to Live website HERE  (create link here)
+Link to Live website here -  <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Reflection</a>
  
  
-{ INSERT SCREEN SHOOT OF RESPONSIVE SITES HERE TO
-http://ami.responsivedesign.is/# }
+![Artspace responsive design](assets/readme-images/responsive-preview.png)
+
  
 {move the following text to UX section}
  
