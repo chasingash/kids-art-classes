@@ -36,7 +36,14 @@ body {
 }
 
 .navbar .logo span {
-    color: var(--primary-color);
+    color: rgb(255, 174, 0);
+}
+
+.art-logo {
+    border: .1px solid var(--primary-color);
+    border-radius: .1em .6em;
+    font-weight: bolder;
+    background: var(--primary-color);
 }
 
 .navbar nav {
