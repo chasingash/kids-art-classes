@@ -6,7 +6,7 @@ Artspace provides information to its users who want to find out about the differ
 Link to Live website here -  <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Reflection</a>
  
  
-![Artspace responsive design](assets/readme-images/responsive-preview.png)
+![Artspace responsive design](assets/readme-images/responsive_preview.png)
 
  
 {move the following text to UX section}
