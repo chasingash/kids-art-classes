@@ -34,10 +34,11 @@ Back to top
 The fonts I picked are Playfair Display and Poppins which I implemented into the CSS file via Google fonts.
 Primary Font - Playfair Display -  chosen for its traditional style. Well suited for titling and headlines.
 Secondary Font - Poppins - Chosen as the secondary font for its fun, modern and fresh feel and to balance out my primary font.
+
 ## Colour Scheme
  
 I went for a playful and vibrant colour scheme inspired by this year's Pantone colour of the year, 17-3938 Very Peri ( Link colour to - https://www.primoprint.com/blog/pantones-color-of-the-year-2022/ ) which is in good contrast to my chosen background hero image.
-As noted on their site “From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative.”
+As noted on their site > From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative.
 
 Insert screenshot of colour scheme here :)
 
