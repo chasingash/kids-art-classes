@@ -182,13 +182,18 @@ section {
     text-align: center;
     padding: 2em 1em;
     width: 75%;
-    margin: 0 auto 2.5em auto;
+    margin: 5em auto;
     border-radius: .5em 4em;
 
 }
 
 .class-info li h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
+}
+
+.class-type {
+    margin: .5em;
+    font-size: 1.4em;
 }
 
 .days {
@@ -389,7 +394,8 @@ nav li a:hover {
     }
 
     .class-info li {
-        margin: .7em;
+        margin: 6em 1.5em 5em 1.5em;
+        padding: .5em;
     }
 
     .contact-section {
