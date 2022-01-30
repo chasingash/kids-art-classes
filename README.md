@@ -38,7 +38,7 @@ Secondary Font - Poppins - Chosen as the secondary font for its fun, modern and 
 I went for a playful and vibrant colour scheme inspired by this year's Pantone colour of the year, 17-3938 Very Peri ( Link colour to - https://www.primoprint.com/blog/pantones-color-of-the-year-2022/ ) which is in good contrast to my chosen background hero image.
 As noted on their site > From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative.
 
-Insert screenshot of colour scheme here :)
+![Colour Palette image](assets/readme-images/colour_palette.png)
 
 * ## Imagery
 
