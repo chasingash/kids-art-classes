@@ -35,8 +35,8 @@ Secondary Font - Poppins - Chosen as the secondary font for its fun, modern and 
 
 * ## Colour Scheme
  
-I went for a playful and vibrant colour scheme inspired by this year's Pantone colour of the year, 17-3938 Very Peri ( Link colour to - https://www.primoprint.com/blog/pantones-color-of-the-year-2022/ ) which is in good contrast to my chosen background hero image.
-As noted on their site > From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative.
+I went for a clean and fresh colour scheme inspired by this year's Pantone colour of the year, 17-3938 Very Peri ( Link colour to - https://www.primoprint.com/blog/pantones-color-of-the-year-2022/ ) which is in good contrast to my chosen background hero image.
+As quoted on their site  "From a psychological standpoint, purple represents spirituality, wisdom, and bravery. It tends to make people feel mysterious and imaginative."
 
 ![Colour Palette image](assets/readme-images/colour_palette.png)
 
@@ -54,8 +54,13 @@ The ARTSPACE website is set up for easy navigation. It contains a navigation bar
 
 Located at the top of the website, it allows its users to intuitively navigate the site. It is fully responsive and contains all links to all sections of the site. It is in a fixed position so that it stays visible, whether you scroll down through the page or use the convenient links nested inside the bar. In mobile view, there is a hamburger icon which also has a fixed position and working links.
  
-The LOGO is clickable and linked back to the homepage.
-Insect screenshot here :) desktop and mobile versions plus downtown menu
+The LOGO is clickable and links back to the homepage.
+
+![Navigation Bar Desktop Image](assets/readme-images/navigation_bar.png)
+
+Contact button has a hover effect
+
+![Navigation Bar Desktop Image](assets/readme-images/navigation_bar_hover.png)
 
 * ### Homepage section
  
