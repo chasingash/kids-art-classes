@@ -3,7 +3,7 @@
 ARTSPACE is a landing page which aims to provide information to Parents of children wanting to pursue art and crafts classes. Artspace offers just that, a space to create Art in a friendly environment to children of all ages.
 Artspace provides information to its users who want to find out about the different art classes, age categories and contact information.
  
-Link to Live website here -  <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Reflection</a>
+Link to Live website here -  <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Artspace</a>
  
  
 ![Artspace responsive design](assets/readme-images/responsive_preview.png)
@@ -23,7 +23,7 @@ Back to top -  my github link here :)
 ## Design Prototype
 I designed a prototype for ARTSPACE on paper first and then moved into Balsamiq _link to official site here) where I created numerous wireframes to fit mobile, tablet and desktop devices which provided me with a clear visual outline of how I wanted my site to appear. Some changes were made along the development stage as I experimented with different layouts to suit the needs of the site and also from further research into UX design.
  
-Insert wireframes here :)
+![Design Prototype Preview](assets/readme-images/design_prototype.png)
  
 Back to top
 
