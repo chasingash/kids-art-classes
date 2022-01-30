@@ -66,24 +66,65 @@ The LOGO is clickable and links back to the homepage.
 
 * ### Homepage section
  
-The homepage has a background image which fits the screen. The image is colourful and playful and gives a good clear direction of what the website is about. This is where the user lands on their initial visit. It is designed to be intuitive and user friendly.
+ The homepage has a background image which fits the screen. The image is colourful and playful and gives a good clear direction of what the website is about. This is where the user lands on their initial visit. It is designed to be intuitive and user friendly.
  
  
-Overlaid on top of the image is where the main header text appears. It states clearly in large text what the site is about.
+ Overlaid on top of the image is where the main header text appears. It states clearly in large text what the site is about.
  
-Above the main header text, is more text in slightly smaller text and in uppercase with a catchy slogan to further draw in the user.
+ Above the main header text, is more text in slightly smaller text and in uppercase with a catchy slogan to further draw in the user.
  
-Beneath the Main text is a simple yet effective call-to-action button that directs the user to “Find a class”
+ Beneath the Main text is a simple yet effective call-to-action button that directs the user to “Find a class”
  
 ![Navigation Bar Desktop Image](assets/readme-images/hero_image.png)
 
-* ### About section
+* ### About Section
 
-The About section gives a clear and concise description of what Artspace is about and its offerings.
+ The About section gives a clear and concise description of what Artspace is about and its offerings.
 
 ![Navigation Bar Desktop Image](assets/readme-images/about.png)
 
-### Classes section
+* ### Class Information Section
 
-The Classes section aims to provide the user with the age category, a class description and the day and times for each art class.
-Insert screenshot here :)
+  The Class information section aims to provide the user with the age category, a class description and the day and times for each art class.
+
+![Navigation Bar Desktop Image](assets/readme-images/class_information.png)
+
+* ### Contact Section
+
+  The contact form allows for enquiries about its currently run art classes to be sent to the creator.
+
+  The contact section is fully responsive and aligns above the map in mobile view. In larger screens it aligns to the left of the map.
+
+![Navigation Bar Desktop Image](assets/readme-images/contact_map.png)
+
+* ### Footer Section
+
+  The Footer contains the social media links. The links open in new individual  tabs. For educational purposes only and open to their respective homepages.
+
+![Navigation Bar Desktop Image](assets/readme-images/footer.png)
+
+* # Future Implementation
+
+* A newsletter with future upcoming classes. 
+* A monthly blog with art tips and techniques.
+* User Testimonials.
+* An LMS with tutorials to cater for those that don’t live close by.
+* An ecommerce shop selling art supplies. 
+* Create a Favicon.
+
+
+* # Technologies Used
+
+* HTML5 - to provide content and structure for the website.
+* CSS3 - for styling the website. 
+* JavaScript -  to enable responsiveness for mobile navigation.
+* Balsamiq - to create the wireframes.
+* Photoshop -  used to compress the images.
+* Pantone -  to select the the proper hex code for this years colour of the year and complimentary colours. 
+* Font Awesome - for social media icons.
+* Gitpod - Used to develop the website.
+* Github - for hosting and deployment.
+* Gitbash - Terminal used to push changes to GitHub repository.
+
+
+
