@@ -56,11 +56,9 @@ Located at the top of the website, it allows its users to intuitively navigate t
  
 The LOGO is clickable and links back to the homepage.
 
-Desktop Navigation Bar - Image</b></summary>![Navigation Bar Desktop Image](assets/readme-images/navigation_bar.png)
+![Navigation Bar Desktop Image](assets/readme-images/navbar.png)
 
-
-![Navigation Bar Desktop Image](assets/readme-images/navigation_bar_hover.png)
-
+![Navigation Bar Desktop Image](assets/readme-images/navbar_hover.png)
 
 ![Navigation Bar Desktop Image](assets/readme-images/responsive_navbar.png)
 
@@ -77,12 +75,13 @@ Above the main header text, is more text in slightly smaller text and in upperca
  
 Beneath the Main text is a simple yet effective call-to-action button that directs the user to “Find a class”
  
-Insert screenshot of Full screen - nav and hero section :)
+![Navigation Bar Desktop Image](assets/readme-images/hero_image.png)
 
 * ### About section
 
 The About section gives a clear and concise description of what Artspace is about and its offerings.
-Insert screenshot here :)
+
+![Navigation Bar Desktop Image](assets/readme-images/about.png)
 
 ### Classes section
 
