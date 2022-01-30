@@ -289,7 +289,7 @@ nav {
     width: 66%;
     right: 0;
     top: 0;
-    background: rgb(206, 38, 206);
+    background: var(--primary-color);
     height: 100vh;
     padding: 1em;
 }
