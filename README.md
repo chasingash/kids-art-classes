@@ -56,11 +56,19 @@ Located at the top of the website, it allows its users to intuitively navigate t
  
 The LOGO is clickable and links back to the homepage.
 
+<details><summary><b>Desktop Navigation Bar - Image</b></summary>
 ![Navigation Bar Desktop Image](assets/readme-images/navigation_bar.png)
+</details><br />
 
-Contact button has a hover effect
-
+<details><summary><b>Desktop Navigation Bar with Hover - Image</b></summary>
 ![Navigation Bar Desktop Image](assets/readme-images/navigation_bar_hover.png)
+</details><br />
+
+<details><summary><b>Mobile responsive navigation - Image</b></summary>
+![Navigation Bar Desktop Image](assets/readme-images/responsive_navbar.png)
+</details><br />
+
+
 
 * ### Homepage section
  
