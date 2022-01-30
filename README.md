@@ -126,5 +126,9 @@ The LOGO is clickable and links back to the homepage.
 * Github - for hosting and deployment.
 * Gitbash - Terminal used to push changes to GitHub repository.
 
+# Testing
+
+* ## Code Validation
+
 
 
