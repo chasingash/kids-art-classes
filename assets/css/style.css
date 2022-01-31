@@ -290,7 +290,7 @@ input[type=submit] {
     font-weight: bold;
     font-size: 1.4em;
     border: none;
-    margin-bottom: .5em;
+    margin: 2em;
     display: inline-block;
     padding: 0.8em 2em;
     width: unset;
