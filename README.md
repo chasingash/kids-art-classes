@@ -202,8 +202,12 @@ The LOGO is clickable and links back to the homepage.
       * Ensure that all elements are fully responsive.
   
     * Contact section
-      * 
+      * Ensure that all elements that are set to required are working properly.
+      * Ensure that the "submit" button lets the user know that the submission was successful.
+      * Ensure the contact section is fully responsive.
+  
     * Footer Section
+      * 
 
 
 * ## Browser Testing
