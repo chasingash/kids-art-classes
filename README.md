@@ -184,8 +184,12 @@ The LOGO is clickable and links back to the homepage.
       * Ensure that when clicked, the call to action button takes the suer to the class information section.
       * Ensure the call to action button has a hover effect. 
 
-
     * About Section
+      * Ensure text is presented clearly with the correct font style and sizing. 
+      * Ensure text is revised and checked for any spelling errors that might have occured in teh development phase.
+      * Ensure the About section is fully responsive across all devices.
+
+
     * Class Information Section
     * Contact section
     * Footer Section
