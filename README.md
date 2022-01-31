@@ -207,10 +207,8 @@ The LOGO is clickable and links back to the homepage.
       * Ensure the contact section is fully responsive.
   
     * Footer Section
-      * 
-
-
-* ## Browser Testing
+      * Ensure that all social links open in a new tab.
+      * Ensure the footer is fully responsive. 
 
 * ## Bugs Fixed
 
