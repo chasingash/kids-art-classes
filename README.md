@@ -173,10 +173,18 @@ The LOGO is clickable and links back to the homepage.
       * Ensure that the navigation bar is fully responsive. 
       * Ensure that when clicked, all navigation links scroll smoothly to their correct section of the page.
       * Ensure that the hamburger menu is fully funtional when clicked. 
-      * ensure that the navigation is fixed in position upon scrolling down and when navigation links are selected. 
-
+      * Ensure that the navigation is fixed in position upon scrolling down and when navigation links are selected.
+      * Ensure the contact button has a hover effect. 
 
     * Home/Landing Section
+      * Ensure the Hero image is not pixelated and fully responsive across all devices. 
+      * Ensure that all elements are fully responsive.
+      * Ensure that the main text, sub-text and call to action button are central to the page and responsive.
+      * Ensure all images are optimished and have alt functions.
+      * Ensure that when clicked, the call to action button takes the suer to the class information section.
+      * Ensure the call to action button has a hover effect. 
+
+
     * About Section
     * Class Information Section
     * Contact section
