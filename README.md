@@ -155,6 +155,9 @@ The LOGO is clickable and links back to the homepage.
   ![Chrome Mobile Lighthouse](assets/readme-images/lighthouse_mobile_image.png)
 
 * ## Accessibility Testing
+* Ran Website through a11y to test colour contrast and found no issues. 
+  ![a11y Test](assets/readme-images/a11y_contrast_test_image.png)
+  
 
 * ## Responsive Testing
 
