@@ -24,7 +24,7 @@ For my first project, I will provide a professionally developed responsive websi
   * The user wants to be able to access the social media accounts.
 
 ## Design Prototype
-I designed a prototype for ARTSPACE on paper first and then moved into Balsamiq _link to official site here) where I created numerous wireframes to fit mobile, tablet and desktop devices which provided me with a clear visual outline of how I wanted my site to appear. Some changes were made along the development stage as I experimented with different layouts to suit the needs of the site and also from further research into UX design.
+I designed a prototype for ARTSPACE on paper first and then moved into Balsamiq where I created numerous wireframes to fit mobile, tablet and desktop devices which provided me with a clear visual outline of how I wanted my site to appear. Some changes were made along the development stage as I experimented with different layouts to suit the needs of the site and also from further research into UX design.
  
 ![Design Prototype Preview](assets/readme-images/design_prototype.png)
 
@@ -38,8 +38,8 @@ The website ARTSPACE is a one-page website, with 4 navigation links and a clear 
 * ## Typography
  
 The fonts I picked are Playfair Display and Poppins which I implemented into the CSS file via Google fonts.
-Primary Font - Playfair Display -  chosen for its traditional style. Well suited for titling and headlines.
-Secondary Font - Poppins - Chosen as the secondary font for its fun, modern and fresh feel and to balance out my primary font.
+* Primary Font - Poppins. Chosen for its fun, modern and fresh feel.
+* Secondary Font - Playfair Display. Chosen for its traditional style. Well suited for sub-titling and complements the primary font.
 
 * ## Colour Scheme
  
@@ -214,7 +214,6 @@ The LOGO is clickable and links back to the homepage.
 
 * ## Bugs Fixed
 
-* ## Colour Contrast Testing
 
  # Deployment
   ### **Project Deployment steps**
@@ -232,6 +231,8 @@ The live link can be found <a href="https://chasingash.github.io/kids-art-classe
  ### Media
 
 * # Acknowledgments
+
+I would like to thank the slack community, my mentor and all at the Code Institute for their continued help and support throughout this whole process.
 
 
 
