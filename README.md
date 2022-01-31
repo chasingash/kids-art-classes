@@ -158,10 +158,15 @@ The LOGO is clickable and links back to the homepage.
 * Ran Website through a11y to test colour contrast and found no issues. 
   ![a11y Test](assets/readme-images/a11y_contrast_test_image.png)
   
-
 * ## Responsive Testing
+  * Google Chrome DevTools and Responsive Design Checker were used to test the responsiveness  of the website. 
 
-* ## Manual Testing
+
+* # Manual Testing
+  * To ensure that everything was working properly and up to a professional startard, I conducted a number of manual tests.
+
+  * ## Tests Conducted
+
 
 * ## Browser Testing
 
@@ -170,11 +175,19 @@ The LOGO is clickable and links back to the homepage.
 * ## Colour Contrast Testing
 
 * # Deployment
+  ### **Project Deployment steps**
+  The follwing steps were taken to deploy my website to GitHub pages. 
+  1. In the GitHub repository, navigate to the **Settings** tab.
+  2. In settings, scroll down to the **Pages** tab.
+  3. Next, select the branch **main** under **Source** and click **save**.
+  4. Finally, the page should automatically refresh, making the deployed link visible.
 
-* # Credits
+The live link can be found <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Here</a>
 
-  ## Content
-  ## Media
+ # Credits
+ ### Content
+
+ ### Media
 
 * # Acknowledgments
 
