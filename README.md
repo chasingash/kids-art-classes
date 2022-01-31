@@ -144,5 +144,14 @@ The LOGO is clickable and links back to the homepage.
 
 * ## Colour Contrast Testing
 
+* # Deployment
+
+* # Credits
+
+  ## Content
+  ## Media
+
+* # Acknowledgments
+
 
 
