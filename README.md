@@ -103,7 +103,7 @@ The LOGO is clickable and links back to the homepage.
 
 ![Navigation Bar Desktop Image](assets/readme-images/footer.png)
 
-* # Future Implementation
+# Future Implementation
 
 * A newsletter with future upcoming classes. 
 * A monthly blog with art tips and techniques.
@@ -113,7 +113,7 @@ The LOGO is clickable and links back to the homepage.
 * Create a Favicon.
 
 
-* # Technologies Used
+# Technologies Used
 
 * HTML5 - to provide content and structure for the website.
 * CSS3 - for styling the website. 
@@ -130,7 +130,29 @@ The LOGO is clickable and links back to the homepage.
 
 * ## Code Validation
 
+* The Artspace website has been tested and validated by both the W3C HTML Validator and the W3C CSS Validator. All minor erros found were fixed immediately. 
+
+* ### HTML Validation Image
+
+![HTML Validation](assets/readme-images/html_validation_image.png)
+
+* ### CSS Validation Image
+
+![CSS Validation](assets/readme-images/css_validation_image.png)
+
 * ## Lighthouse Testing
+
+* The Website has been put through the Chrome Dev Tools which tests for the following:
+  * Performance - page preformance on loading.
+  * Accessibility - ensuring accessibility for all users and how it can be improved.
+  * Best Practices - Examining whether the site conforms to industry best practices. 
+  * SEO - Which stands for Search Engine Optimisation. Is the site optimised for search engine result ranking.
+
+* ### Chrome Desktop Lighthouse result
+  ![Chrome Desktop Lighthouse](assets/readme-images/lighthouse_desktop_image.png)
+
+* ### Chrome Mobile Lighthouse Result
+  ![Chrome Mobile Lighthouse](assets/readme-images/lighthouse_mobile_image.png)
 
 * ## Accessibility Testing
 
