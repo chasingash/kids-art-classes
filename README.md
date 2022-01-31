@@ -189,9 +189,12 @@ The LOGO is clickable and links back to the homepage.
       * Ensure text is revised and checked for any spelling errors that might have occured in teh development phase.
       * Ensure the About section is fully responsive across all devices.
 
-
     * Class Information Section
+      * Ensure that all elements are aligned properly and centered.
+      * Ensure that all elements are fully responsive.
+  
     * Contact section
+      * 
     * Footer Section
 
 
