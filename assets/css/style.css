@@ -166,6 +166,8 @@ ul {
     min-height: 80vh;
 }
 
+/* tutorial used to create the video background  and colour overlay https://youtu.be/RIDA6elhmBU */
+
 .video-bg {
     position: absolute;
     z-index: -1;
