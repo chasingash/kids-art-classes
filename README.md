@@ -62,7 +62,7 @@ The ARTSPACE website is set up for easy navigation. It contains a navigation bar
 
 Located at the top of the website, it allows its users to intuitively navigate the site. It is fully responsive and contains all links to all sections of the site. It is in a fixed position so that it stays visible, whether you scroll down through the page or use the convenient links nested inside the bar. In mobile view, there is a hamburger icon which also has a fixed position and working links.
  
-The LOGO is clickable and links back to the homepage.
+The LOGO is clickable and links back to the homepage. I created it using fonts and css styling. 
 
 ![Navigation Bar Desktop Image](assets/readme-images/navbar.png)
 
@@ -75,7 +75,6 @@ The LOGO is clickable and links back to the homepage.
 * ### Homepage section
  
  The homepage has a background image which fits the screen. The image is colourful and playful and gives a good clear direction of what the website is about. This is where the user lands on their initial visit. It is designed to be intuitive and user friendly.
- 
  
  Overlaid on top of the image is where the main header text appears. It states clearly in large text what the site is about.
  
@@ -210,8 +209,8 @@ The LOGO is clickable and links back to the homepage.
       * Ensure that all social links open in a new tab.
       * Ensure the footer is fully responsive. 
 
-* ## Bugs Fixed
-
+* ## Bug Fixes
+* 
 
  # Deployment
   ### **Project Deployment steps**
@@ -224,13 +223,19 @@ The LOGO is clickable and links back to the homepage.
 The live link can be found <a href="https://chasingash.github.io/kids-art-classes/" target="_blank" rel="noopener">Here</a>
 
  # Credits
- ### Content
+ ## Content
+ * Font from Google fonts
+ * Icons from Font Awesome
+ * JavaScript code used to create the responsive navigation bar https://youtu.be/D-h8L5hgW-w
+ * All other code used  as inspiration commented into my css.
 
- ### Media
+ ## Media
+* All images and video were sourced from Pexels.com
+* All images commpressed using Adobe Photoshop
 
 * # Acknowledgments
 
-I would like to thank the slack community, my mentor and all at the Code Institute for their continued help and support throughout this whole process.
+I would like to thank the slack community, my mentor and all at the Code Institute for their continued help and support throughout this whole process and to Mike who provided the layout i used to create my this readme.
 
 
 
