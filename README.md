@@ -130,5 +130,19 @@ The LOGO is clickable and links back to the homepage.
 
 * ## Code Validation
 
+* ## Lighthouse Testing
+
+* ## Accessibility Testing
+
+* ## Responsive Testing
+
+* ## Manual Testing
+
+* ## Browser Testing
+
+* ## Bugs Fixed
+
+* ## Colour Contrast Testing
+
 
 
