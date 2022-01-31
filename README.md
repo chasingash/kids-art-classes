@@ -166,6 +166,21 @@ The LOGO is clickable and links back to the homepage.
   * To ensure that everything was working properly and up to a professional startard, I conducted a number of manual tests.
 
   * ## Tests Conducted
+    * Navigation Menu
+      * Ensure that upon clicking, the Logo navgates back to the top of page.
+      * Ensure that all links to the different sections are funtioning as intended.
+      * Ensure that all hover effects are consistent on all buttons.
+      * Ensure that the navigation bar is fully responsive. 
+      * Ensure that when clicked, all navigation links scroll smoothly to their correct section of the page.
+      * Ensure that the hamburger menu is fully funtional when clicked. 
+      * ensure that the navigation is fixed in position upon scrolling down and when navigation links are selected. 
+
+
+    * Home/Landing Section
+    * About Section
+    * Class Information Section
+    * Contact section
+    * Footer Section
 
 
 * ## Browser Testing
@@ -174,7 +189,7 @@ The LOGO is clickable and links back to the homepage.
 
 * ## Colour Contrast Testing
 
-* # Deployment
+ # Deployment
   ### **Project Deployment steps**
   The follwing steps were taken to deploy my website to GitHub pages. 
   1. In the GitHub repository, navigate to the **Settings** tab.
