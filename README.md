@@ -106,7 +106,7 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 
 ![Navigation Bar Desktop Image](assets/readme-images/contact_map.png)
 
-![Navigation Bar Desktop Image](assets/readme-images/class_information_mobile.png)
+![Navigation Bar Desktop Image](assets/readme-images/contact_map_mobile.png)
 
 * ### Footer Section
 
