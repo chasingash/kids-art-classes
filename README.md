@@ -39,7 +39,7 @@ The website ARTSPACE is a one-page website, with 4 navigation links and a clear 
  
 The fonts I picked are Playfair Display and Poppins which I implemented into the CSS file via Google fonts.
 * Primary Font - Poppins. Chosen for its fun, modern and fresh feel.
-* Secondary Font - Playfair Display. Chosen for its traditional style. Well suited for sub-titling and complements the primary font.
+* Secondary Font - Playfair Display. Chosen for its traditional style. Well suited for sub-titling and complements the primary font really well.
 
 * ## Colour Scheme
  
@@ -92,9 +92,12 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 
 * ### Class Information Section
 
-  The Class information section aims to provide the user with the age category, a class description and the day and times for each art class.
+  The Class information section aims to provide the user with the age category, a class description and the day and times for each art class and is fully responsive on all devices.
 
 ![Navigation Bar Desktop Image](assets/readme-images/class_information.png)
+
+![Navigation Bar Desktop Image](assets/readme-images/class_information_mobile.png)
+
 
 * ### Contact Section
 
