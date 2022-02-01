@@ -122,16 +122,16 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 
 # Technologies Used
 
-* HTML5 - to provide content and structure for the website.
-* CSS3 - for styling the website. 
-* JavaScript -  to enable responsiveness for mobile navigation.
-* Balsamiq - to create the wireframes.
-* Photoshop -  used to compress the images.
-* Pantone -  to select the the proper hex code for this years colour of the year and complimentary colours. 
-* Font Awesome - for social media icons.
-* Gitpod - Used to develop the website.
-* Github - for hosting and deployment.
-* Gitbash - Terminal used to push changes to GitHub repository.
+* [HTML5](https://en.wikipedia.org/wiki/HTML) - to provide content and structure for the website.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - for styling the website. 
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript) -  to enable responsiveness for mobile navigation.
+* [Balsamiq](https://balsamiq.com/) - to create the wireframes.
+* [Photoshop](https://www.adobe.com) -  used to compress the images.
+* [Pantone](https://www.pantone.com) -  to select the the proper hex code for this years colour of the year and complimentary colours. 
+* [Font Awesome](https://www.fontawesome.com/) - for social media icons.
+* [Gitpod](https://www.gitpod.io/) - Used to develop the website.
+* [Github](https://www.github.com) - for hosting and deployment.
+* [GitBash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) - Terminal used to push changes to GitHub repository.
 
 # Testing
 
