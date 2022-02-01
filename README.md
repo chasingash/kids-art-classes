@@ -98,7 +98,6 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 
 ![Navigation Bar Desktop Image](assets/readme-images/class_information_mobile.png)
 
-
 * ### Contact Section
 
   The contact form allows for enquiries about its currently run art classes to be sent to the creator.
@@ -106,6 +105,8 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
   The contact section is fully responsive and aligns above the map in mobile view. In larger screens it aligns to the left of the map.
 
 ![Navigation Bar Desktop Image](assets/readme-images/contact_map.png)
+
+![Navigation Bar Desktop Image](assets/readme-images/class_information_mobile.png)
 
 * ### Footer Section
 
@@ -121,7 +122,6 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 * An LMS with tutorials to cater for those that don’t live close by.
 * An ecommerce shop selling art supplies. 
 * Create a Favicon.
-
 
 # Technologies Used
 
@@ -170,7 +170,6 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
   
 * ## Responsive Testing
   * Google Chrome DevTools and Responsive Design Checker were used to test the responsiveness  of the website. 
-
 
 * # Manual Testing
   * To ensure that everything was working properly and up to a professional startard, I conducted a number of manual tests.
