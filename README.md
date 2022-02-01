@@ -215,6 +215,14 @@ After testing the site on different screen sizes, i discovered some text was not
 
 I resolved with media queries and ajusting the margin and padding. 
 
+Another issue i had was with the navigation links not stopping at the right section and catching the fixed navigation bar to cut some of the section of. 
+
+![Chrome Mobile Lighthouse](assets/readme-images/bug.png)
+
+I resolved this by wrapping the container inside a span element and giving it a unique ID. The i added a relative position to it in css which fixed the issue. 
+
+![Chrome Mobile Lighthouse](assets/readme-images/bug_fix.png)
+
  # Deployment
   ### **Project Deployment steps**
   The follwing steps were taken to deploy my website to GitHub pages. 
