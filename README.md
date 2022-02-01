@@ -221,7 +221,7 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
 
 ![Chrome Mobile Lighthouse](assets/readme-images/bug.png)
 
-    I resolved this by wrapping the container inside a span element and giving it a unique ID. The i added a relative position to it in css which fixed the issue. 
+  I resolved this by wrapping the container inside a span element and giving it a unique ID. The i added a relative position to it in css which fixed the issue. 
 
 ![Chrome Mobile Lighthouse](assets/readme-images/bug_fix.png)
 
