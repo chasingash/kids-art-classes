@@ -210,7 +210,10 @@ The LOGO is clickable and links back to the homepage. I created it using fonts a
       * Ensure the footer is fully responsive. 
 
 * ## Bug Fixes
-* 
+
+After testing the site on different screen sizes, i discovered some text was not aligned properly which on further investigation appeared to be due to margin and padding issues. 
+
+I resolved with media queries and ajusting the margin and padding. 
 
  # Deployment
   ### **Project Deployment steps**
@@ -227,15 +230,16 @@ The live link can be found <a href="https://chasingash.github.io/kids-art-classe
  * Font from Google fonts
  * Icons from Font Awesome
  * JavaScript code used to create the responsive navigation bar https://youtu.be/D-h8L5hgW-w
- * All other code used  as inspiration commented into my css.
+ * All other code used as inspiration, I added with comments to the css file.
+ * W3schools
 
- ## Media
+## Media
 * All images and video were sourced from Pexels.com
-* All images commpressed using Adobe Photoshop
+* All images compressed using Adobe Photoshop
 
 * # Acknowledgments
 
-I would like to thank the slack community, my mentor and all at the Code Institute for their continued help and support throughout this whole process and to Mike who provided the layout i used to create my this readme.
+I would like to thank the slack community, my mentor and all at the Code Institute for their continued help and support throughout this whole process and to Mike who provided the layout i used to create this readme file.
 
 
 
